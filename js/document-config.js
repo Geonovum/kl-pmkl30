@@ -17,11 +17,11 @@ var documentConfig =
   previousPublishDate: "2024-12-04",
   previousPublishVersion: "3.0.0",
   prevVersion: [
-    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30-20241204/"
+    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20241204/"
   ],
   previousMaturity: "cv",
-  github: "https://github.com/geonovum/kl-pmkl30/",
-  issueBase: "https://github.com/geonovum/kl-pmkl30/issues/",
+  github: "https://github.com/geonovum/imkl-werkomgeving/",
+  issueBase: "https://github.com/geonovum/imkl-werkomgeving/issues/",
   edDraftURI: "https://geonovum.github.io/kl-pmkl30/",
   canonicalURI: "https://docs.geostandaarden.nl/kl/pmkl30/",
   authors: [
