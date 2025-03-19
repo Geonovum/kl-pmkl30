@@ -9,10 +9,10 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/kl/pmkl30/"
   ],
-  publishDate: "2025-03-18",
+  publishDate: "2025-03-19",
   publishVersion: "3.0.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/kl/def-st-pmkl30-20250318/"
+    "https://docs.geostandaarden.nl/kl/def-st-pmkl30-20250319/"
   ],
   previousPublishDate: "2024-09-30",
   previousPublishVersion: "3.0.0",
