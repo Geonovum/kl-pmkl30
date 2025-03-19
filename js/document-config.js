@@ -14,10 +14,10 @@ var documentConfig =
   thisVersion: [
     "https://docs.geostandaarden.nl/kl/def-st-pmkl30-20250319/"
   ],
-  previousPublishDate: "2024-09-30",
+  previousPublishDate: "2024-12-04",
   previousPublishVersion: "3.0.0",
   prevVersion: [
-    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30-20240930/"
+    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30-20241204/"
   ],
   previousMaturity: "cv",
   github: "https://github.com/geonovum/kl-pmkl30/",
