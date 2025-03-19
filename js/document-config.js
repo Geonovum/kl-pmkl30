@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "Handreiking Visualisatie (PMKL) - versie 3.0",
+  title: "Handreiking Visualisatie (PMKL) - versie",
   shortName: "pmkl30",
   pubDomain: "kl",
   specStatus: "def",
